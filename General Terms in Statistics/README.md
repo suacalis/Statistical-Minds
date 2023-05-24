@@ -24,3 +24,30 @@
 ---
 ### <table><tr><td>Ordinal Variables</td></tr></table>
 >ordinal variables are a type of categorical variable that represent qualitative characteristics with distinct categories or groups that have a natural order or ranking. Unlike nominal variables, ordinal variables possess a meaningful sequence or hierarchy among the categories. Examples of ordinal variables include ratings on a Likert scale (e.g., strongly disagree, disagree, neutral, agree, strongly agree) or educational attainment levels (e.g., high school, bachelor's degree, master's degree). The order of the categories is essential, but the magnitude of the differences between them may not be consistent or precisely measurable. Statistical analysis of ordinal variables often involves techniques that respect the ordinal nature of the data, such as nonparametric tests, cumulative frequency distributions, or ordinal logistic regression. Graphical representations, such as ordered bar charts or stacked bar charts, can be used to visualize the distribution and relative frequencies of the ordinal categories. Ordinal variables provide valuable information about rankings, preferences, or levels of agreement, allowing for comparisons and assessments of trends or patterns within the data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Author
+- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[Kaggle](https://www.kaggle.com/tusharaggarwal27)</b> 
