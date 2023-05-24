@@ -9,20 +9,19 @@ The repository is organized into several sections, each offering unique insights
 
 * ## Theory: 
  Explore in-depth discussions and explanations of statistical concepts, methodologies, and techniques.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
- * [Project 1](): Description of the second project.
+ * [General Terms in Statistics](https://github.com/tushar2704/Statistical-Minds/tree/main/General%20Terms%20in%20Statistics)
+ * [STATISTICS 101](https://github.com/tushar2704/Statistical-Minds/tree/main/STATISTICS%20101)
+ * [Data Sampling](https://github.com/tushar2704/Statistical-Minds/tree/main/Data%20Sampling)
+ * [Central Tendency](https://github.com/tushar2704/Statistical-Minds/tree/main/Central%20Tendency)
+ * [Measure of Spread](https://github.com/tushar2704/Statistical-Minds/tree/main/Measure%20of%20Spread)
+ * [Measure of Position](https://github.com/tushar2704/Statistical-Minds/tree/main/Measure%20of%20Position)
+ * [Odds & Probability](https://github.com/tushar2704/Statistical-Minds/tree/main/Odds%20%26%20Probability)
+ * [Comparing Proportion](https://github.com/tushar2704/Statistical-Minds/tree/main/Comparing%20Proportion)
+ * [Hypothesis Test](https://github.com/tushar2704/Statistical-Minds/tree/main/Hypothesis%20Test)
+ * [Regression & Correlation](https://github.com/tushar2704/Statistical-Minds/tree/main/Regression%20%26%20Correlation)
+ * [Clustering Analysis](https://github.com/tushar2704/Statistical-Minds/tree/main/Clustering%20Analysis)
+ * [T-Test](https://github.com/tushar2704/Statistical-Minds/tree/main/T-Test)
+ * [Z-Test](https://github.com/tushar2704/Statistical-Minds/tree/main/Z-Test)
  
 * ## Notebooks: 
  Delve into interactive Jupyter notebooks filled with hands-on examples, visualizations, and code snippets.
