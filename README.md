@@ -37,8 +37,7 @@ The repository is organized into several sections, each offering unique insights
 ## Feedback and Support
  We appreciate your feedback and encourage you to reach out if you have any questions, suggestions, or ideas for improvement. You can submit an issue in the repository or contact us directly via email at statisticalminds@example.com.
 ## Author
-
-- <b>Tushar Aggarwal</b>
+- <b>©2023 Tushar Aggarwal. All rights reserved</b>
 - <b>LinkedIn</b>: https://www.linkedin.com/in/tusharaggarwalinseec/
 - <b>Website</b>: https://www.tushar-aggarwal.com/
 - <b>Kaggle</b>: https://www.kaggle.com/tusharaggarwal27
