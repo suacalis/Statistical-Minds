@@ -9,6 +9,21 @@ The repository is organized into several sections, each offering unique insights
 
 * ## Theory: 
  Explore in-depth discussions and explanations of statistical concepts, methodologies, and techniques.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ * [Project 1](): Description of the second project.
+ 
 * ## Notebooks: 
  Delve into interactive Jupyter notebooks filled with hands-on examples, visualizations, and code snippets.
 * ## Projects: 
