@@ -1,1 +1,8 @@
 # General Terms in Statistics
+---
+### <table><tr><td>Data</td></tr></table>
+>Raw information collected and stored for various purposes. It can take the form of numbers, text, images, or multimedia. Data can be structured (organized in a predefined format) or unstructured (lacking a specific structure). It serves as the foundation for analysis, decision-making, and technological advancements. Quality, relevance, and responsible use are crucial considerations in managing data. Privacy, security, and ethical concerns are increasingly important in the digital age.
+---
+
+### <table><tr><td>Population</td></tr></table>
+>In statistics, a population refers to the entire set of individuals, objects, or events that share a common characteristic and are the focus of a statistical study. It represents the complete group under investigation, from which data is collected to make inferences and draw conclusions. The population can be defined based on various attributes, such as demographics, geographical location, or specific traits of interest. Accurate definition and characterization of the population are crucial for valid statistical analysis. By studying the population and analyzing data collected from it, statisticians can estimate population parameters, test hypotheses, and make informed decisions. Understanding the population concept is fundamental to sampling, inference, and generalizing findings from observed data.
