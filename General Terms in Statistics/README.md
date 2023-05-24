@@ -75,6 +75,205 @@
 ---
 ### <table><tr><td>Poisson Distribution</td></tr></table>
 >A probability distribution that models the number of events occurring within a fixed interval of time or space, given a known average rate of occurrence. It is characterized by a single parameter, lambda (λ), which represents the average rate of events. The Poisson distribution describes the probabilities of observing different numbers of events, such as arrivals, accidents, or phone calls, in a specific interval. It assumes that events occur independently and at a constant rate. The distribution is discrete and skewed to the right, with the mean and variance both equal to λ. The Poisson distribution is widely used in various fields, including queuing theory, reliability analysis, and insurance. It provides a useful tool for modeling and predicting rare events, estimating event frequencies, and evaluating the probability of observing specific event counts within a given timeframe or area.
+### <table><tr><td> Hypothesis Testing</td></tr></table>
+---
+### <table><tr><td> Confidence Interval</td></tr></table>
+---
+### <table><tr><td> Sampling Distribution</td></tr></table>
+---
+### <table><tr><td> Central Limit Theorem</td></tr></table>
+---
+### <table><tr><td> Type I Error</td></tr></table>
+---
+### <table><tr><td> Type II Error</td></tr></table>
+---
+### <table><tr><td> Significance Level</td></tr></table>
+---
+### <table><tr><td> P-value</td></tr></table>
+---
+### <table><tr><td> Regression Analysis</td></tr></table>
+---
+### <table><tr><td> Correlation Coefficient</td></tr></table>
+---
+### <table><tr><td> Standard Deviation</td></tr></table>
+---
+### <table><tr><td> Null Hypothesis</td></tr></table>
+---
+### <table><tr><td> Alternative Hypothesis</td></tr></table>
+---
+### <table><tr><td> Statistical Power</td></tr></table>
+---
+### <table><tr><td> Sampling Bias</td></tr></table>
+---
+### <table><tr><td> Outlier</td></tr></table>
+---
+### <table><tr><td> Random Variable</td></tr></table>
+---
+### <table><tr><td> Probability Density Function</td></tr></table>
+---
+### <table><tr><td> Chi-Square Test</td></tr></table>
+---
+### <table><tr><td> Analysis of Variance (ANOVA)</td></tr></table>
+---
+### <table><tr><td> t-test</td></tr></table>
+---
+### <table><tr><td> Nonparametric Test</td></tr></table>
+---
+### <table><tr><td> Data Mining</td></tr></table>
+---
+### <table><tr><td> Statistical Inference</td></tr></table>
+---
+### <table><tr><td> Experimental Design</td></tr></table>
+---
+### <table><tr><td> Time Series Analysis</td></tr></table>
+---
+### <table><tr><td> Multicollinearity</td></tr></table>
+---
+### <table><tr><td> Cluster Analysis</td></tr></table>
+---
+### <table><tr><td> Factor Analysis</td></tr></table>
+---
+### <table><tr><td> Survival Analysis</td></tr></table>
+---
+### <table><tr><td> Bayesian Statistics</td></tr></table>
+---
+### <table><tr><td> Robust Statistics</td></tr></table>
+---
+### <table><tr><td> Residual Analysis</td></tr></table>
+---
+### <table><tr><td> Skewness</td></tr></table>
+---
+### <table><tr><td> Kurtosis</td></tr></table>
+---
+### <table><tr><td> Hypothesis Formulation</td></tr></table>
+---
+### <table><tr><td> Probability Distribution Function</td></tr></table>
+---
+### <table><tr><td> Statistical Modeling</td></tr></table>
+---
+### <table><tr><td> Data Visualization</td></tr></table>
+---
+### <table><tr><td> Resampling Methods</td></tr></table>
+---
+### <table><tr><td> Confidence Level</td></tr></table>
+---
+### <table><tr><td> Multivariate Regression</td></tr></table>
+---
+### <table><tr><td> Goodness of Fit</td></tr></table>
+---
+### <table><tr><td> Parametric Statistics</td></tr></table>
+---
+### <table><tr><td> Descriptive Statistics</td></tr></table>
+---
+### <table><tr><td> Categorical Data Analysis</td></tr></table>
+---
+### <table><tr><td> Effect Size</td></tr></table>
+---
+### <table><tr><td> Statistical Software</td></tr></table>
+---
+### <table><tr><td> Experimental Control</td></tr></table>
+---
+### <table><tr><td> Randomization</td></tr></table>
+---
+### <table><tr><td> Stratified Sampling</td></tr></table>
+---
+### <table><tr><td> Cross-sectional Study</td></tr></table>
+---
+### <table><tr><td> Longitudinal Study</td></tr></table>
+---
+### <table><tr><td> Covariate</td></tr></table>
+---
+### <table><tr><td> Statistical Significance</td></tr></table>
+---
+### <table><tr><td> Sampling Error</td></tr></table>
+---
+### <table><tr><td> Statistical Independence</td></tr></table>
+---
+### <table><tr><td> Overfitting</td></tr></table>
+---
+### <table><tr><td> Time-to-Event Analysis</td></tr></table>
+---
+### <table><tr><td> Missing Data Analysis</td></tr></table>
+---
+### <table><tr><td> Confidence Band</td></tr></table>
+---
+### <table><tr><td> Ordinal Data Analysis</td></tr></table>
+---
+### <table><tr><td> Multinomial Logistic Regression</td></tr></table>
+---
+### <table><tr><td> Exploratory Data Analysis</td></tr></table>
+---
+### <table><tr><td> Robust Estimation</td></tr></table>
+---
+### <table><tr><td> Factorial Design</td></tr></table>
+---
+### <table><tr><td> Model Selection</td></tr></table>
+---
+### <table><tr><td> Residual Plot</td></tr></table>
+---
+### <table><tr><td> Nonlinear Regression</td></tr></table>
+---
+### <table><tr><td> Survey Sampling</td></tr></table>
+---
+### <table><tr><td> Random Effects Model</td></tr></table>
+---
+### <table><tr><td> Fixed Effects Model</td></tr></table>
+---
+### <table><tr><td> Sensitivity Analysis</td></tr></table>
+---
+### <table><tr><td> Receiver Operating Characteristic (ROC) Curve</td></tr></table>
+---
+### <table><tr><td> Log-linear Analysis</td></tr></table>
+---
+### <table><tr><td> Panel Data Analysis</td></tr></table>
+---
+### <table><tr><td> Effect Modification</td></tr></table>
+---
+### <table><tr><td> Discriminant Analysis</td></tr></table>
+---
+### <table><tr><td> Monte Carlo Simulation</td></tr></table>
+---
+### <table><tr><td> Time-invariant Covariate</td></tr></table>
+---
+### <table><tr><td> Proportional Hazards Model</td></tr></table>
+---
+### <table><tr><td> Nonparametric Regression</td></tr></table>
+---
+### <table><tr><td> Multilevel Modeling</td></tr></table>
+---
+### <table><tr><td> Factorial ANOVA</td></tr></table>
+---
+### <table><tr><td> Multidimensional Scaling</td></tr></table>
+---
+### <table><tr><td> Logit Model</td></tr></table>
+---
+### <table><tr><td> Box-Cox Transformation</td></tr></table>
+---
+### <table><tr><td> Nonresponse Bias</td></tr></table>
+---
+### <table><tr><td> Latent Variable</td></tr></table>
+---
+### <table><tr><td> Skewness Test</td></tr></table>
+---
+### <table><tr><td> Variance Inflation Factor</td></tr></table>
+---
+### <table><tr><td> Contingency Table</td></tr></table>
+---
+### <table><tr><td> Instrumental Variables</td></tr></table>
+---
+### <table><tr><td> Network Analysis</td></tr></table>
+---
+### <table><tr><td> Latent Class Analysis</td></tr></table>
+---
+### <table><tr><td> Survival Function</td></tr></table>
+---
+### <table><tr><td> Case-Control Study</td></tr></table>
+---
+### <table><tr><td> Genetic Algorithm</td></tr></table>
+---
+### <table><tr><td> Structural Equation Modeling</td></tr></table>
+---
+### <table><tr><td> Kernel Density Estimation</td></tr></table>
 
 
 
