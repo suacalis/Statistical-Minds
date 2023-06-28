@@ -1,6 +1,8 @@
 # Statistical-Minds
 Welcome to StatisticalMinds, your go-to repository for all things statistics, data science, machine learning, and artificial intelligence! Here, you'll find a treasure trove of resources, including theory, notebooks, and projects designed to enhance your understanding and practical application of these exciting fields.
+
 <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## About
 StatisticalMinds is a growing collection of curated content and projects aimed at helping you dive deep into the world of statistics and its intersection with data science, machine learning, and artificial intelligence. Whether you're a beginner looking to grasp fundamental concepts or an experienced practitioner seeking to expand your knowledge, this repository has something for everyone.
 
